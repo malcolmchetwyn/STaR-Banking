@@ -1,6 +1,6 @@
-# Enhanced STaR Algorithm for Banking - Is STaR Bright Enough
+# Is STaR Bright Enough
 
-This repository contains the implementation of the Enhanced Self-Taught Reasoner (STaR) Algorithm, specifically adapted for the banking industry. It extends the original STaR algorithm with advanced rationale generation, banking-specific optimizations, and a continuous learning framework to maintain accuracy and relevance over time.
+Enhanced STaR Algorithm for Banking - This repository contains the implementation of the Enhanced Self-Taught Reasoner (STaR) Algorithm, specifically adapted for the banking industry. It extends the original STaR algorithm with advanced rationale generation, banking-specific optimizations, and a continuous learning framework to maintain accuracy and relevance over time.
 
 ## Features
 
